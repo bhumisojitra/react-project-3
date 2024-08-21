@@ -46,12 +46,12 @@
 }
 .clear-button{
     grid-column: span 3;
-    background-color: #665866;
+    background-color: gray;
     color: white;
 }
 .eql{
     grid-column: span 2;
-    background-color: #665866;
+    background-color: gray;
     color: white;
 }
 button {
